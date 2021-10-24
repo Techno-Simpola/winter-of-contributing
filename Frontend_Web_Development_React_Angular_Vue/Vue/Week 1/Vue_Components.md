@@ -79,6 +79,7 @@ new Vue({
 - Here we have used a component and defined it globally i.e, it can be used as many time as you want by just copying  `<app-user></app-user> ` in your code. 
 <br/>
 It can also be defined locally in the JS file as....
+
 ```js
 new Vue({
     el: '#app',
